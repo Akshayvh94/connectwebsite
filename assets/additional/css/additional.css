@@ -1979,9 +1979,7 @@ html, body {
 }
 
 .cid-rfkY7LzRia {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+   background-color: #ffffff;
 }
 
 @media (min-width: 992px) {
@@ -2063,7 +2061,7 @@ html, body {
 }
 
 .cid-rfkYbotu6K {
-  padding-bottom: 60px;
+ 
   background-color: #ffffff;
 }
 
@@ -2102,4 +2100,11 @@ html, body {
   height: 210px;
   background-size: cover;
   background-position: center right;
+}
+.btn-style{
+  margin: 8px 0px 0px;
+}
+.bg-footer
+{
+  background-color: #312d2d!important
 }
